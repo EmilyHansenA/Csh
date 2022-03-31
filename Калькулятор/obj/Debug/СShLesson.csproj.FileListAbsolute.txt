@@ -1,0 +1,10 @@
+D:\Programming\C#\СShLesson\bin\Debug\СShLesson.exe.config
+D:\Programming\C#\СShLesson\bin\Debug\СShLesson.exe
+D:\Programming\C#\СShLesson\bin\Debug\СShLesson.pdb
+D:\Programming\C#\СShLesson\obj\Debug\СShLesson.csproj.AssemblyReference.cache
+D:\Programming\C#\СShLesson\obj\Debug\СShLesson.Form1.resources
+D:\Programming\C#\СShLesson\obj\Debug\СShLesson.Properties.Resources.resources
+D:\Programming\C#\СShLesson\obj\Debug\СShLesson.csproj.GenerateResource.cache
+D:\Programming\C#\СShLesson\obj\Debug\СShLesson.csproj.CoreCompileInputs.cache
+D:\Programming\C#\СShLesson\obj\Debug\СShLesson.exe
+D:\Programming\C#\СShLesson\obj\Debug\СShLesson.pdb
