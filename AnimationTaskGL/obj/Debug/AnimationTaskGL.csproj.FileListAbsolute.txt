@@ -1,0 +1,11 @@
+D:\Programming\GitHub\My-functions-programs-Csh\AnimationTaskGL\bin\Debug\AnimationTaskGL.exe.config
+D:\Programming\GitHub\My-functions-programs-Csh\AnimationTaskGL\bin\Debug\AnimationTaskGL.exe
+D:\Programming\GitHub\My-functions-programs-Csh\AnimationTaskGL\bin\Debug\AnimationTaskGL.pdb
+D:\Programming\GitHub\My-functions-programs-Csh\AnimationTaskGL\obj\Debug\AnimationTaskGL.csproj.AssemblyReference.cache
+D:\Programming\GitHub\My-functions-programs-Csh\AnimationTaskGL\obj\Debug\AnimationTaskGL.csproj.SuggestedBindingRedirects.cache
+D:\Programming\GitHub\My-functions-programs-Csh\AnimationTaskGL\obj\Debug\AnimationTaskGL.Animation.resources
+D:\Programming\GitHub\My-functions-programs-Csh\AnimationTaskGL\obj\Debug\AnimationTaskGL.Properties.Resources.resources
+D:\Programming\GitHub\My-functions-programs-Csh\AnimationTaskGL\obj\Debug\AnimationTaskGL.csproj.GenerateResource.cache
+D:\Programming\GitHub\My-functions-programs-Csh\AnimationTaskGL\obj\Debug\AnimationTaskGL.csproj.CoreCompileInputs.cache
+D:\Programming\GitHub\My-functions-programs-Csh\AnimationTaskGL\obj\Debug\AnimationTaskGL.exe
+D:\Programming\GitHub\My-functions-programs-Csh\AnimationTaskGL\obj\Debug\AnimationTaskGL.pdb

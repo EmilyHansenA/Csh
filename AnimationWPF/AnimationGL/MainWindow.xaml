@@ -1,0 +1,49 @@
+﻿<Window x:Class="AnimationGL.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AnimationGL"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <!--Розовая кнопка-->
+        <Grid Width="50" HorizontalAlignment="Left" Background="Pink">
+            <Grid.Style>
+                <Style TargetType="{x:Type Grid}">
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="MouseEnter">
+                            <!--//Когда курсор "проникает" в область — блок разворачивается.-->
+                            <EventTrigger.Actions>
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <DoubleAnimation Duration="0:0:0.2" Storyboard.TargetProperty="Width" To="150">
+                                        </DoubleAnimation>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger.Actions>
+                        </EventTrigger>
+                        <EventTrigger RoutedEvent="MouseLeave">
+                            <!--//Когда курсор покидает область — блок сворачивается.-->
+                            <EventTrigger.Actions>
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <DoubleAnimation Duration="0:0:0.2" Storyboard.TargetProperty="Width" To="50">
+                                        </DoubleAnimation>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger.Actions>
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Grid.Style>
+        </Grid>
+        <Button Background="White" Width="50" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top"
+                Margin="60,10,0,0" Click="Button_Click">
+            <TextBlock Text="GREEN" Foreground="Green"/>
+        </Button>
+
+        <!--Зеленая кнопка-->
+        <Grid Name ="GreenButton"  HorizontalAlignment="Left" Width="50" Height="50" Background="Green" Margin="60, 0, 0, 0"/>
+    </Grid>
+</Window>
