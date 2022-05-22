@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace AnimationTaskGL
@@ -17,7 +11,7 @@ namespace AnimationTaskGL
             InitializeComponent();
             DoubleBuffered = true;
 
-            ClientSize = new Size(500, 500);
+            ClientSize = new Size(600, 500);
 
             var centerX = ClientSize.Width / 2;
             var centerY = ClientSize.Height / 2;
@@ -26,8 +20,11 @@ namespace AnimationTaskGL
             var radius = Math.Min(ClientSize.Width, ClientSize.Height) / 3;
 
             var time = 0;
-            var Timer = new Timer();
-            Timer.Interval = 500;
+            var Timer = new Timer
+            {
+                Interval = 500
+            };
+
             Timer.Tick += (sender, args) =>
             {
                 time++;
@@ -45,16 +42,12 @@ namespace AnimationTaskGL
                 {
                     args.Graphics.TranslateTransform(centerX, centerY);
                     args.Graphics.RotateTransform(i * 360f / 10);
-                    args.Graphics.FillEllipse(brush, radius - size / 2, -size / 2, size, size);
+                    args.Graphics.FillEllipse(brush, radius - size / 2, size / 2, size, size);
 
                     args.Graphics.ResetTransform();
                 }
+                args.Graphics.Clear(Color.Black);
             };
-        }
-
-        private void Animation_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

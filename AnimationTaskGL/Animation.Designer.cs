@@ -37,7 +37,6 @@
             this.ClientSize = new System.Drawing.Size(577, 450);
             this.Name = "Animation";
             this.Text = "Animation";
-            this.Load += new System.EventHandler(this.Animation_Load);
             this.ResumeLayout(false);
 
         }
