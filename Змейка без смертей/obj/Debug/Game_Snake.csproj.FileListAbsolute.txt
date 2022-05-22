@@ -8,3 +8,14 @@ C:\Users\Emily Hansen\source\repos\Game_Snake\bin\Debug\Game_Snake.exe
 C:\Users\Emily Hansen\source\repos\Game_Snake\bin\Debug\Game_Snake.pdb
 C:\Users\Emily Hansen\source\repos\Game_Snake\obj\Debug\Game_Snake.exe
 C:\Users\Emily Hansen\source\repos\Game_Snake\obj\Debug\Game_Snake.pdb
+D:\Programming\GitHub\My-functions-programs-Csh\Змейка без смертей\bin\Debug\Game_Snake.exe.config
+D:\Programming\GitHub\My-functions-programs-Csh\Змейка без смертей\bin\Debug\Game_Snake.exe
+D:\Programming\GitHub\My-functions-programs-Csh\Змейка без смертей\bin\Debug\Game_Snake.pdb
+D:\Programming\GitHub\My-functions-programs-Csh\Змейка без смертей\obj\Debug\Game_Snake.csproj.AssemblyReference.cache
+D:\Programming\GitHub\My-functions-programs-Csh\Змейка без смертей\obj\Debug\Game_Snake.csproj.SuggestedBindingRedirects.cache
+D:\Programming\GitHub\My-functions-programs-Csh\Змейка без смертей\obj\Debug\Game_Snake.Form1.resources
+D:\Programming\GitHub\My-functions-programs-Csh\Змейка без смертей\obj\Debug\Game_Snake.Properties.Resources.resources
+D:\Programming\GitHub\My-functions-programs-Csh\Змейка без смертей\obj\Debug\Game_Snake.csproj.GenerateResource.cache
+D:\Programming\GitHub\My-functions-programs-Csh\Змейка без смертей\obj\Debug\Game_Snake.csproj.CoreCompileInputs.cache
+D:\Programming\GitHub\My-functions-programs-Csh\Змейка без смертей\obj\Debug\Game_Snake.exe
+D:\Programming\GitHub\My-functions-programs-Csh\Змейка без смертей\obj\Debug\Game_Snake.pdb

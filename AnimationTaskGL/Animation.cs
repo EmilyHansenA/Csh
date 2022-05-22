@@ -46,7 +46,6 @@ namespace AnimationTaskGL
 
                     args.Graphics.ResetTransform();
                 }
-                args.Graphics.Clear(Color.Black);
             };
         }
     }
