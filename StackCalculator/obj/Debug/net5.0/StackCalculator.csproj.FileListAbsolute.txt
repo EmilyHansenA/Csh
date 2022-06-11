@@ -1,0 +1,16 @@
+D:\Programming\GitHub\My-functions-programs-Csh\StackCalculator\obj\Debug\net5.0\StackCalculator.csproj.AssemblyReference.cache
+D:\Programming\GitHub\My-functions-programs-Csh\StackCalculator\obj\Debug\net5.0\StackCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\GitHub\My-functions-programs-Csh\StackCalculator\obj\Debug\net5.0\StackCalculator.AssemblyInfoInputs.cache
+D:\Programming\GitHub\My-functions-programs-Csh\StackCalculator\obj\Debug\net5.0\StackCalculator.AssemblyInfo.cs
+D:\Programming\GitHub\My-functions-programs-Csh\StackCalculator\obj\Debug\net5.0\StackCalculator.csproj.CoreCompileInputs.cache
+D:\Programming\GitHub\My-functions-programs-Csh\StackCalculator\bin\Debug\net5.0\StackCalculator.exe
+D:\Programming\GitHub\My-functions-programs-Csh\StackCalculator\bin\Debug\net5.0\StackCalculator.deps.json
+D:\Programming\GitHub\My-functions-programs-Csh\StackCalculator\bin\Debug\net5.0\StackCalculator.runtimeconfig.json
+D:\Programming\GitHub\My-functions-programs-Csh\StackCalculator\bin\Debug\net5.0\StackCalculator.runtimeconfig.dev.json
+D:\Programming\GitHub\My-functions-programs-Csh\StackCalculator\bin\Debug\net5.0\StackCalculator.dll
+D:\Programming\GitHub\My-functions-programs-Csh\StackCalculator\bin\Debug\net5.0\StackCalculator.pdb
+D:\Programming\GitHub\My-functions-programs-Csh\StackCalculator\obj\Debug\net5.0\StackCalculator.dll
+D:\Programming\GitHub\My-functions-programs-Csh\StackCalculator\obj\Debug\net5.0\refint\StackCalculator.dll
+D:\Programming\GitHub\My-functions-programs-Csh\StackCalculator\obj\Debug\net5.0\StackCalculator.pdb
+D:\Programming\GitHub\My-functions-programs-Csh\StackCalculator\obj\Debug\net5.0\StackCalculator.genruntimeconfig.cache
+D:\Programming\GitHub\My-functions-programs-Csh\StackCalculator\obj\Debug\net5.0\ref\StackCalculator.dll
