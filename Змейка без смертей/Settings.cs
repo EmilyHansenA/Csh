@@ -20,8 +20,5 @@ namespace Game_Snake
 
             direction = "left";
         }
-
-
-
     }
 }

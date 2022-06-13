@@ -15,7 +15,5 @@ namespace Game_Snake
         {
             X = 0; Y = 0;
         }
-
-
     }
 }
