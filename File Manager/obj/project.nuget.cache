@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "r9PCsY2p8U5J0CKDksFki5+7xk/YfS4qiHX4rsmYNiCh/IBTJu+FmWbkUdFdg03MjLtTpzz1s+LdawV37pAJXw==",
+  "dgSpecHash": "6K8HsC4blj/zxuPQzVIqIYXv86YaPo4NVoRuI0F/lDdnG5KmcFN+z409lChIOXiD2evGMYqiMtfwtKdtYdV33w==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\GitHub\\My-functions-programs-Csh\\File Manager\\File Manager.csproj",
+  "projectFilePath": "D:\\Programming\\GitHub\\C_sharp\\File Manager\\File Manager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emily Hansen\\.nuget\\packages\\fody\\6.6.2\\fody.6.6.2.nupkg.sha512",
+    "C:\\Users\\Emily Hansen\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
     "C:\\Users\\Emily Hansen\\.nuget\\packages\\propertychanged.fody\\3.4.1\\propertychanged.fody.3.4.1.nupkg.sha512"
   ],
   "logs": []

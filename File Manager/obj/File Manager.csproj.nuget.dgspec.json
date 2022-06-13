@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\GitHub\\My-functions-programs-Csh\\File Manager\\File Manager.csproj": {}
+    "D:\\Programming\\GitHub\\C_sharp\\File Manager\\File Manager.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\GitHub\\My-functions-programs-Csh\\File Manager\\File Manager.csproj": {
+    "D:\\Programming\\GitHub\\C_sharp\\File Manager\\File Manager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\GitHub\\My-functions-programs-Csh\\File Manager\\File Manager.csproj",
+        "projectUniqueName": "D:\\Programming\\GitHub\\C_sharp\\File Manager\\File Manager.csproj",
         "projectName": "File Manager",
-        "projectPath": "D:\\Programming\\GitHub\\My-functions-programs-Csh\\File Manager\\File Manager.csproj",
+        "projectPath": "D:\\Programming\\GitHub\\C_sharp\\File Manager\\File Manager.csproj",
         "packagesPath": "C:\\Users\\Emily Hansen\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\GitHub\\My-functions-programs-Csh\\File Manager\\obj\\",
+        "outputPath": "D:\\Programming\\GitHub\\C_sharp\\File Manager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,10 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "dependencies": {
+            "Microsoft.Xaml.Behaviors.Wpf": {
+              "target": "Package",
+              "version": "[1.1.39, )"
+            },
             "PropertyChanged.Fody": {
               "target": "Package",
               "version": "[3.4.1, )"

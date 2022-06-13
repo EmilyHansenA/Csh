@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v5.0": {
       "File Manager/1.0.0": {
         "dependencies": {
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.39",
           "PropertyChanged.Fody": "3.4.1"
         },
         "runtime": {
@@ -15,6 +16,14 @@
         }
       },
       "Fody/6.6.2": {},
+      "Microsoft.Xaml.Behaviors.Wpf/1.1.39": {
+        "runtime": {
+          "lib/net5.0-windows7.0/Microsoft.Xaml.Behaviors.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.39.4716"
+          }
+        }
+      },
       "PropertyChanged.Fody/3.4.1": {
         "dependencies": {
           "Fody": "6.6.2"
@@ -34,6 +43,13 @@
       "sha512": "sha512-/PISk/t+lnNm0tiAc3xer3wp7HVnDCkX7gyTzljbC9kygUBJpYU2V1P/MjJeu/C6JhR40QXr9XdoxvqRmaHlhg==",
       "path": "fody/6.6.2",
       "hashPath": "fody.6.6.2.nupkg.sha512"
+    },
+    "Microsoft.Xaml.Behaviors.Wpf/1.1.39": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8PZKqw9QOcu42xk8puY4P1+EXHL9YGOR9b7qhaYx5cILHul456H073tj99vyPcCt0W0781T9RwHqkx507ZyUpQ==",
+      "path": "microsoft.xaml.behaviors.wpf/1.1.39",
+      "hashPath": "microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
     },
     "PropertyChanged.Fody/3.4.1": {
       "type": "package",

@@ -22,3 +22,29 @@ D:\Programming\GitHub\My-functions-programs-Csh\File Manager\obj\Debug\net5.0-wi
 D:\Programming\GitHub\My-functions-programs-Csh\File Manager\obj\Debug\net5.0-windows\ref\File Manager.dll
 D:\Programming\GitHub\My-functions-programs-Csh\File Manager\obj\Debug\net5.0-windows\File Manager.csproj.Fody.CopyLocal.cache
 D:\Programming\GitHub\My-functions-programs-Csh\File Manager\obj\Debug\net5.0-windows\File Manager.csproj.Fody.RuntimeCopyLocal.cache
+D:\Programming\GitHub\C_sharp\File Manager\bin\Debug\net5.0-windows\File Manager.exe
+D:\Programming\GitHub\C_sharp\File Manager\bin\Debug\net5.0-windows\File Manager.deps.json
+D:\Programming\GitHub\C_sharp\File Manager\bin\Debug\net5.0-windows\File Manager.runtimeconfig.json
+D:\Programming\GitHub\C_sharp\File Manager\bin\Debug\net5.0-windows\File Manager.runtimeconfig.dev.json
+D:\Programming\GitHub\C_sharp\File Manager\bin\Debug\net5.0-windows\File Manager.dll
+D:\Programming\GitHub\C_sharp\File Manager\bin\Debug\net5.0-windows\File Manager.pdb
+D:\Programming\GitHub\C_sharp\File Manager\obj\Debug\net5.0-windows\File Manager.csproj.AssemblyReference.cache
+D:\Programming\GitHub\C_sharp\File Manager\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Programming\GitHub\C_sharp\File Manager\obj\Debug\net5.0-windows\App.g.cs
+D:\Programming\GitHub\C_sharp\File Manager\obj\Debug\net5.0-windows\File Manager_MarkupCompile.cache
+D:\Programming\GitHub\C_sharp\File Manager\obj\Debug\net5.0-windows\File Manager_MarkupCompile.lref
+D:\Programming\GitHub\C_sharp\File Manager\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Programming\GitHub\C_sharp\File Manager\obj\Debug\net5.0-windows\File Manager.g.resources
+D:\Programming\GitHub\C_sharp\File Manager\obj\Debug\net5.0-windows\File Manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\GitHub\C_sharp\File Manager\obj\Debug\net5.0-windows\File Manager.AssemblyInfoInputs.cache
+D:\Programming\GitHub\C_sharp\File Manager\obj\Debug\net5.0-windows\File Manager.AssemblyInfo.cs
+D:\Programming\GitHub\C_sharp\File Manager\obj\Debug\net5.0-windows\File Manager.csproj.CoreCompileInputs.cache
+D:\Programming\GitHub\C_sharp\File Manager\obj\Debug\net5.0-windows\File Manager.csproj.Fody.CopyLocal.cache
+D:\Programming\GitHub\C_sharp\File Manager\obj\Debug\net5.0-windows\File Manager.csproj.Fody.RuntimeCopyLocal.cache
+D:\Programming\GitHub\C_sharp\File Manager\obj\Debug\net5.0-windows\File Manager.dll
+D:\Programming\GitHub\C_sharp\File Manager\obj\Debug\net5.0-windows\refint\File Manager.dll
+D:\Programming\GitHub\C_sharp\File Manager\obj\Debug\net5.0-windows\File Manager.pdb
+D:\Programming\GitHub\C_sharp\File Manager\obj\Debug\net5.0-windows\File Manager.genruntimeconfig.cache
+D:\Programming\GitHub\C_sharp\File Manager\obj\Debug\net5.0-windows\ref\File Manager.dll
+D:\Programming\GitHub\C_sharp\File Manager\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Programming\GitHub\C_sharp\File Manager\obj\Debug\net5.0-windows\File Manager.csproj.CopyComplete
