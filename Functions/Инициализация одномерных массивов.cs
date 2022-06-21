@@ -48,11 +48,5 @@ for (int i = 0; i < array1.Length; i++)
 }
 Console.WriteLine(Environment.NewLine);
 #endregion
-
 #endregion
-
-
-//#region Двумерные массивы
-
-//int[] array2 = new int[2][1];
 #endregion
