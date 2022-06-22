@@ -1,7 +1,3 @@
-using System.Linq;
-
-Random random = new Random();
-
 int[] array1 = new int[5] { 1, 1, 24, 5, 91 };
 
 //Оригинальные элементы массива
