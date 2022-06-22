@@ -4,7 +4,7 @@ Random random = new Random();
 
 int[] array1 = new int[5] { 1, 1, 24, 5, 91 };
 
-//Оригинальные элементы массива
+//РћСЂРёРіРёРЅР°Р»СЊРЅС‹Рµ СЌР»РµРјРµРЅС‚С‹ РјР°СЃСЃРёРІР°
 int[] result1 = array1.Distinct().ToArray();
 for (int i = 0; i < result1.Length; i++)
 {
@@ -12,7 +12,7 @@ for (int i = 0; i < result1.Length; i++)
 }
 Console.WriteLine(Environment.NewLine);
 
-//Сортировка массива по возрастанию
+//РЎРѕСЂС‚РёСЂРѕРІРєР° РјР°СЃСЃРёРІР° РїРѕ РІРѕР·СЂР°СЃС‚Р°РЅРёСЋ
 int[] result2 = array1.OrderBy(i => i).ToArray();
 for (int i = 0; i < result2.Length; i++)
 {
@@ -20,11 +20,11 @@ for (int i = 0; i < result2.Length; i++)
 }
 Console.WriteLine(Environment.NewLine);
 
-//Сумма четных элементов массива
+//РЎСѓРјРјР° С‡РµС‚РЅС‹С… СЌР»РµРјРµРЅС‚РѕРІ РјР°СЃСЃРёРІР°
 Console.WriteLine(array1.Where(i => i % 2 == 0).Sum());
 Console.WriteLine(Environment.NewLine);
 
-//Найти первый элемент массива меньше 70
+//РќР°Р№С‚Рё РїРµСЂРІС‹Р№ СЌР»РµРјРµРЅС‚ РјР°СЃСЃРёРІР° РјРµРЅСЊС€Рµ 70
 int result3 = Array.Find(array1, i => i < 70);
 Console.WriteLine(result3);
 Console.WriteLine(Environment.NewLine);
